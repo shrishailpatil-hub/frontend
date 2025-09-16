@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shrishailpatil-hub.github.io/newton-frontend",
+  "homepage": "https://shrishailpatil-hub.github.io/frontend",
   "dependencies": {
     "@react-three/drei": "^10.7.6",
     "@react-three/fiber": "^9.3.0",
